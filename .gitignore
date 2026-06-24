@@ -23,4 +23,8 @@ build/archive/*
 !build/compile/.keep
 !build/archive/.keep
 
+# Temporary files.
 git.diff.txt
+
+# Build files.
+gateway
